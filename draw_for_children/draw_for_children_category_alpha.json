@@ -134,65 +134,6 @@
                         ]
                    },
                    {
-                   "category_id": "1501",
-                   "category_name": "Peppa Pig",
-                   "category_thumbnail": "1501.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Daddy Pig",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "2",
-                              "anime_name": "George 1",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id": "3",
-                              "anime_name": "George 2",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id": "4",
-                              "anime_name": "In the Rocket",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "5",
-                              "anime_name": "Mummy Pig 1",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id": "6",
-                              "anime_name": "Mummy Pig 2",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id": "7",
-                              "anime_name": "Peppa 1",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id": "8",
-                              "anime_name": "Peppa 2",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id": "9",
-                              "anime_name": "Peppa 3",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "10",
-                              "anime_name": "Peppa 4",
-                              "anime_step":10
-                              }
-                              ]
-                   },
-                   {
                    "category_id": "1502",
                    "category_name": "Cartoon Cars",
                    "category_thumbnail": "1502.png",
