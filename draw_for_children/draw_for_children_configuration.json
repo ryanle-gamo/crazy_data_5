@@ -1,12 +1,12 @@
 {
-	"latest_version":"1.0.1",
+	"latest_version":"1.0.0",
     "is_admob":true,
-	"version":"ALPHA",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/draw_game_characters_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/draw_game_characters_category_alpha.json",
-    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_4/master/draw_game_characters/",
-    "google_analytic_id":"UA-51272761-24",
-    "admob_banner_id":"ca-app-pub-4322965078780162/9395737133",
-    "admob_interstitial_id":"ca-app-pub-4322965078780162/1872470333",
+	"version":"PRODUCTION",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/draw_for_children_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/draw_for_children_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/",
+    "google_analytic_id":"UA-51272761-25",
+    "admob_banner_id":"ca-app-pub-4322965078780162/5461405135",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/6938138331",
     "itune_url":"###"
 }
